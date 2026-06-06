@@ -3,8 +3,7 @@ EXPERIMENT 1
 
 SYNTHESIS OF ZnO PARTICLES BY SOL GEL METHOD
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/b1b6def2-1ea1-4d1c-ba61-a56ddc224b91" />
-
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/36ee21d2-8a63-42e3-9417-7ff16f8d5164" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6a925dac-7084-44fe-af8c-5c37b7e204df" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/ddad8cb7-b1db-4113-af65-aac450aff872" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/3b888d5c-6a13-43b4-beef-2c8fb38f3e67" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/22b02f19-6aa2-43fe-8d93-13a71aa3dd0c" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/5d63c24b-849d-4f40-9c5e-24eead6a1b10" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/21f9fe02-693c-4db8-b19d-87924117493e" />
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/19ac17ab-8034-4e92-bd3d-ba36cff3e9d6" />
